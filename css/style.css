@@ -147,7 +147,7 @@ nav{
 }
 #about{
 	width:100%;
-	height: 100vh;
+	height: auto;
 	background-color:#161616;
 	box-sizing: border-box;
 	display: flex;
@@ -191,17 +191,17 @@ nav{
 	transition: all ease 0.3s;
 }
 #services{
-	width:100%;
-	background-color: #ffffe6;
-	height:100vh;
+		width:100%;
+		height: auto;
+		background-color: #ffffe6;
 	box-sizing: border-box;
 	font-family: calibri;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	padding-top: 60px ;
-	padding-bottom: 60px;
+	padding-top: 40px ;
+	padding-bottom: 40px;
 	
 }
 
